@@ -1,0 +1,21 @@
+:root {
+  --bg-color: rgb(44, 42, 40);
+  --text-light: #000;
+  --text-dark: #f3f3f3;
+  --primary-color: #81703d;
+  --primary-text: #b8b8b8;
+  --secondary-color: #81703d;
+  --dark-color: #785e00;
+  --light-color: #6e5e19;
+  --small: 15px;
+  --medium: 20px;
+  --large: 25px;
+  --x-large: 30px;
+  --giant: 50px;
+  --shadow-light: 0 5px 10px 1px #0004;
+  --hover1: #eeeeee;
+  --secondary-bg: #3c3832;
+  --bg-simple: #3f3b38;
+  --shadow-lighter: 0 0px 10px 1px #0003;
+  --product-box-shadow: 0 0 0 3px #81703d;
+}
