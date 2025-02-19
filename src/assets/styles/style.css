@@ -1,4 +1,4 @@
-@import url("./themes/dark.css");
+@import url("./themes/light.css");
 
 * {
   font-family: "Poppins", sans-serif !important;
@@ -582,7 +582,7 @@ body {
   padding-left: 40px;
 }
 .order-choice {
-  background-color: #fff;
+  background-color: var(--bg-simple);
   color: var(--primary-text);
   font-size: 15px;
   padding: 7px 17px;
